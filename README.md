@@ -1,4 +1,4 @@
-#### Mein Name ist Alexander Neumann, bin 30 Jahre alt und interessiere mich für Web- und Datenbankentwicklung
+#### Mein Name ist Alexander Neumann, bin 30 Jahre alt und interessiere mich für Web- und Datenbankentwicklung.
 ### Meine Kenntnisse
 ***
 <div style="display: flex; justify-content: space-between;">
